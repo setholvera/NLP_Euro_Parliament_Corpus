@@ -14,3 +14,5 @@ Identified the 100 most common words in each language minimizing conflicts betwe
 Used the cleaned language dictionaries to produce new contingency tables and a confusion matrix. This strategy significantly reduced the misclassifications seen between French and Spanish previously. 
 
 Implemented a language identification technique using n-grams. Detected bigrams within language dictionaries.
+
+Europarl Corpus can be found here: https://www.statmt.org/europarl/
