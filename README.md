@@ -1,7 +1,7 @@
 # NLP_Euro_Parliament_Corpus
 A NLP project using the European Parliament Proceedings Corpus
 
-Used a bag of words model in identifying the 100 most common wordsq in each language dictionary
+Used a bag of words model in identifying the 100 most common words in each language dictionary
 
 Normalized the test and training sets by eliminating punctuation and numerical characters using the built-in function isalpha to return strings containing only alphabetic characters
 
